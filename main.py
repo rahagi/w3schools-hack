@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 from FileWriter import mkdir, write, cd
