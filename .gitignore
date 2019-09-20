@@ -1,0 +1,6 @@
+venv/
+.vscode/
+html/
+css/
+js/
+__pycache__
