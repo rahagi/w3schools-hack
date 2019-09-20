@@ -7,7 +7,7 @@ clone this repo
 $ git clone https://github.com/cytopz/translate-ijazah
 ```
 
-install dependency
+install dependencies
 ```
 # pip install -r requirements.txt
 ```
