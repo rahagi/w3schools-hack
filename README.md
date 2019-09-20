@@ -4,7 +4,7 @@ automates insanely boring copy+paste assignment :slightly_smiling_face:.
 # installation
 clone this repo
 ```
-$ git clone https://github.com/cytopz/translate-ijazah
+$ git clone https://github.com/cytopz/w3schools-hack
 ```
 
 install dependencies
