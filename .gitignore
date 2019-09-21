@@ -1,6 +1,6 @@
 venv/
 .vscode/
-html/
-css/
-js/
+HTML/ 
+CSS/
+JS/
 __pycache__
