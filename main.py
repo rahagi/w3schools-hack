@@ -6,7 +6,7 @@ from urllib.request import urlopen
 from FileWriter import mkdir, write, cd
 
 PARENT_URL = 'https://w3schools.com'
-CHILD = ['html','css']
+CHILD = ['html', 'css', 'js']
 
 def get_navbar_links(child_url):
     w3_soup = BeautifulSoup(get_html(PARENT_URL + "/" + child_url), 'html.parser')
