@@ -9,6 +9,7 @@ def write(dir, name, str):
         mkdir(dir)
 
     with open(dir + "/" + name , 'w') as f:
+        f.write('<!DOCTYPE html>\n')
         f.write(str)
 
 def cd(dir):
